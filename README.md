@@ -1,3 +1,0 @@
-teresuki.github.io
-
-test
